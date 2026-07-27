@@ -22,4 +22,4 @@ This list is intended to be a little cheeky, but it also serves a purpose: you c
 | 2016 Asus Zenbook UX305CA | Linux Mint Cinnamon 22.3 |
 | Your computer awaits... | <a href="https://uviclibraries.github.io/permacomputing/additional-resources.html">Choose your reviver!</a> |
 
-[NEXT STEP: Additional resources](https://uviclibraries.github.io/permacomputing/additional-resources.html){: .btn .btn-blue }
+[NEXT STEP: Additional resources](https://uviclibraries.github.io/linux/additional-resources.html){: .btn .btn-blue }
