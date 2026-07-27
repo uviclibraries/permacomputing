@@ -9,7 +9,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # Linux resurrections list 
 
-This list is intended to be a little cheeky, but it also serves a purpose: you can use it to see what kinds of computers we have resurrected with Linux so that you can see if yours might be a good candidate. These are ordered based on release year: 
+This list is intended to be a little cheeky, but it also serves a purpose: you can use it to see what kinds of computers we have resurrected with Linux so that you can see if yours might be a good candidate. 
 
 | <span style='font-size:30px;'>☠️</span> Computer info | <span style='font-size:30px;'>🐦‍🔥</span> System revivifier | 
 | -------- | ------- |
