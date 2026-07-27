@@ -18,7 +18,7 @@ This list is intended to be a little cheeky, but it also serves a purpose: you c
 | 2009 Lenovo X210 | MX Linux Xfce 25.2 |
 | 2013 Lenovo Thinkpad X230 | Linux Mint Cinnamon 22.3 |
 | 2015 Macbook Air 11 A1465 | MX Linux Xfce 25.1 |
-| 2016 HP Stream Laptop PC 11-Y013ca | Linux Mint Xfce 22.3 |
+| 2016 HP Stream Laptop PC 11-y013ca | Linux Mint Xfce 22.3 |
 | 2016 Asus Zenbook UX305CA | Linux Mint Cinnamon 22.3 |
 | Your computer awaits... | <a href="https://uviclibraries.github.io/permacomputing/additional-resources.html">Choose your reviver!</a> |
 
